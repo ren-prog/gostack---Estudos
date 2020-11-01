@@ -7,11 +7,11 @@
 ### Definindo o cronograma semanal
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
+  <img width="80%" src="./assets/semanal.png">
 </p>
 
 ### Definindo o cronograma diário
 
 <p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
+  <img width="80%" src="./assets/diario.png">
 </p>
